@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeOffsetConverter", "DateTimeOffsetConverter\DateTimeOffsetConverter.csproj", "{E34FD54C-83CF-42FC-B955-228E7972F431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34FD54C-83CF-42FC-B955-228E7972F431}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E34FD54C-83CF-42FC-B955-228E7972F431}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E34FD54C-83CF-42FC-B955-228E7972F431}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E34FD54C-83CF-42FC-B955-228E7972F431}.Release|iPhone.Build.0 = Release|iPhone
+		{E34FD54C-83CF-42FC-B955-228E7972F431}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E34FD54C-83CF-42FC-B955-228E7972F431}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E34FD54C-83CF-42FC-B955-228E7972F431}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E34FD54C-83CF-42FC-B955-228E7972F431}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
